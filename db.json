@@ -1,14 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
+[  {    "eventName": "Concert in the Park",    "eventDate": "2023-06-15",    "eventLocation": "Central Park, New York"  },  {    "eventName": "Food Festival",    "eventDate": "2023-07-20",    "eventLocation": "Union Square, San Francisco"  },  {    "eventName": "Art Exhibition",    "eventDate": "2023-08-10",    "eventLocation": "Museum of Modern Art, New York"  },  {    "eventName": "Sport Competition",    "eventDate": "2023-09-05",    "eventLocation": "Stadium, Los Angeles"  }]
 }
